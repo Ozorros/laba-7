@@ -1,0 +1,51 @@
+﻿  BatmanDiesInEndgame.cpp
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(35): error C3873: "0xab": этот символ недопустим как первый символ идентификатора
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(35): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "«"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(35): error C2065: «: необъявленный идентификатор
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(35): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "surname"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(35): error C2143: синтаксическая ошибка: отсутствие ";" перед "строка"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(35): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "name"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(35): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "midname"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(35): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "age"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(35): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "endl"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(35): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(56): error C3873: "0xab": этот символ недопустим как первый символ идентификатора
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(60): error C3873: "0xab": этот символ недопустим как первый символ идентификатора
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(62): error C3873: "0xab": этот символ недопустим как первый символ идентификатора
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(56): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "«"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(56): error C2065: «: необъявленный идентификатор
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(56): error C2143: синтаксическая ошибка: отсутствие ";" перед "строка"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(56): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "surname"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(56): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "name"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(56): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "midname"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(56): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "age"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(56): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "endl"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(56): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(60): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "«"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(60): error C2065: «: необъявленный идентификатор
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(60): error C2143: синтаксическая ошибка: отсутствие ";" перед "строка"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(60): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "endl"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(60): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(61): error C2181: недопустимый else без парного if
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(62): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "«"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(62): error C2065: «: необъявленный идентификатор
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(62): error C2143: синтаксическая ошибка: отсутствие ";" перед "строка"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(62): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "endl"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(62): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(85): error C3873: "0xab": этот символ недопустим как первый символ идентификатора
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(87): error C3873: "0xab": этот символ недопустим как первый символ идентификатора
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(85): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "«"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(85): error C2065: «: необъявленный идентификатор
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(85): error C2143: синтаксическая ошибка: отсутствие ";" перед "строка"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(85): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "surname"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(85): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "name"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(85): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "midname"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(85): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "age"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(85): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "endl"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(85): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(87): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "«"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(87): error C2065: «: необъявленный идентификатор
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(87): error C2143: синтаксическая ошибка: отсутствие ";" перед "строка"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(87): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "number_of_workers"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(87): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "endl"
+c:\users\dimad\source\repos\batmandiesinendgame\batmandiesinendgame\human.h(87): warning C4551: в вызове функции отсутствует список аргументов
